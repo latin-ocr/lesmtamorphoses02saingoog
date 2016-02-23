@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesmtamorphoses02saingoog_0040.png"; bbox 0 0 931 1492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 278 270 804 1067">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 278 270 804 1067">
+     <span class='ocr_line' id='line_1_1' title="bbox 278 270 804 1067; baseline 0 425"><span class='ocrx_word' id='word_1_1' title='bbox 278 270 804 1067; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 395 1076 671 1105">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 395 1076 671 1105">
+     <span class='ocr_line' id='line_1_2' title="bbox 395 1076 671 1105; baseline 0.014 -10"><span class='ocrx_word' id='word_1_2' title='bbox 395 1076 523 1097; x_wconf 54' lang='lat' dir='ltr'><strong>Leucothoe</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 534 1080 556 1098; x_wconf 75' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_4' title='bbox 565 1080 601 1105; x_wconf 83' lang='lat' dir='ltr'>Ap</span> <span class='ocrx_word' id='word_1_5' title='bbox 604 1080 671 1100; x_wconf 83' lang='lat' dir='ltr'>ollon.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

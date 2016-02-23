@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesmtamorphoses02saingoog_0348.png"; bbox 0 0 931 1492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 680 0 1200">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 680 0 1200">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 680 0 1200"><span class='ocrx_word' id='word_1_1' title='bbox 0 680 0 1200; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 843 1095 855 1411">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 797 1090 855 1411">
+     <span class='ocr_line' id='line_1_2' title="bbox 843 1095 855 1411; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 843 1095 855 1411; x_wconf 68' lang='lat' dir='ltr'>J</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 330 1115 777 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 330 1115 777 1144">
+     <span class='ocr_line' id='line_1_3' title="bbox 330 1115 777 1144; baseline 0.002 -7"><span class='ocrx_word' id='word_1_3' title='bbox 330 1115 408 1138; x_wconf 72' lang='lat' dir='ltr'>Me‘de&#39;e</span> <span class='ocrx_word' id='word_1_4' title='bbox 419 1116 490 1144; x_wconf 58' lang='lat' dir='ltr'>requi(</span> <span class='ocrx_word' id='word_1_5' title='bbox 505 1117 539 1138; x_wconf 70' lang='lat' dir='ltr'>len</span> <span class='ocrx_word' id='word_1_6' title='bbox 550 1117 642 1138; x_wconf 70' lang='lat' dir='ltr'>sennenn</span> <span class='ocrx_word' id='word_1_7' title='bbox 654 1116 681 1138; x_wconf 80' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_8' title='bbox 696 1119 777 1138; x_wconf 69' lang='lat' dir='ltr'>Janon,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
